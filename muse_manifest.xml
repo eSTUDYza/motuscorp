@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1611915987972">
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="motus.com" resolutions="1x" timestamp="1611916454221">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="93231811" ref="index"/>
+    <file name="index.css" crc="263517858" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,5 +31,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4136983718" seo="true" mt="1611915802476" redirect="true"/>
+  <file name="index.html" crc="422386676" seo="true" mt="1611916445651" redirect="true"/>
 </manifest>
